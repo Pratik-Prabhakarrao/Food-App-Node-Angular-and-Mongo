@@ -56,3 +56,13 @@
         2. Add ts
         3. Add Html
         4. Add CSS
+9.2 Cart Page
+    1. Create CartItem Model
+    2. Create Cart Model
+    3. Generate Cart service
+    4. Add Cart Button im page compoment
+    5. Generate Cart Page component
+        1. Add route
+        2. Add ts
+        3. Add Html
+        4. Add CSS
