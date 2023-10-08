@@ -1,0 +1,10 @@
+## Development Journy
+1. Introduction to app
+2. Install Development tools
+    1. Create pronect's folder
+    2. Install @angular/cli
+    3. Create App as Frontend
+4. Add Header
+    1. Generate Header component
+    2. Add Html
+    3. Add CSS
