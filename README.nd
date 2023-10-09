@@ -66,3 +66,27 @@
         2. Add ts
         3. Add Html
         4. Add CSS
+10. Not Found !
+    1. Generate compoment
+        1. Add ts
+        2. add Html
+        3. add CSS
+    2. Add to Pages
+        1. Home compoment
+        2. Food Page
+        3. Cart Page
+11. Connect to Backend
+    1. Create Backend folder
+    2. npm init
+    3. npm install typescript
+    4. Create tsConfig.Json
+    5. Create .gitignore
+    6. copy data.ts to the backend/src
+    7. npm install express cors
+    8. Create server.ts
+        1. install @typescript
+        2. Add Api's
+    9. npm install nodmon ts-node --save-dev
+    10. add urls.ts to Frontend
+    11. Add HttpClient module
+    12. update food service
