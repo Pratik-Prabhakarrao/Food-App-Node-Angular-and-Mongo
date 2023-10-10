@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FormGroup } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Food } from 'src/app/Shared/models/Food';
 import { CartService } from 'src/app/services/cart.service';
@@ -15,8 +16,8 @@ export class FoodPageComponent {
     private cartService:CartService, private router: Router ){
     activatedRoute.params.subscribe((params) =>{
       if(params['id'])
-      this.food = foodService.getFoodById(params['id']);
-    })
+      foodService.getFoodById(params['id']).subscribe(serverFood => {this.food = serverFood});
+    });
   }
 
   addToCart(){
