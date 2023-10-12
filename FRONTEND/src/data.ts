@@ -1,5 +1,5 @@
-import { Food } from "./Shared/models/Food";
-import { Tag } from "./Shared/models/Tag";
+import { Food } from "./app/Shared/models/Food";
+import { Tag } from "./app/Shared/models/Tag";
 
 export const sample_foods: Food[] = [
     {

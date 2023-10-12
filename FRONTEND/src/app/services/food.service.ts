@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Food } from '../Shared/models/Food';
-import { sample_foods, sample_tags } from '../data';
+import { sample_foods, sample_tags } from '../../../src/data';
 import { Tag } from '../Shared/models/Tag';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
