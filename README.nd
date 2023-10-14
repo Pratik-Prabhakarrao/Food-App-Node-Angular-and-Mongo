@@ -101,4 +101,14 @@
         1. Use Json
         2. Add Jsonwebtoken
         3. test Using Postman
+
+    3. Generate User service
+        1. Generarte User Model
+        2. Add User Subject
+        3. Add login method
+            1. Add User urls
+            2. Generate IUserLogin interface
+            
+
+        
     
