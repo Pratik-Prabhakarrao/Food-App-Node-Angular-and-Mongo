@@ -108,7 +108,21 @@
         3. Add login method
             1. Add User urls
             2. Generate IUserLogin interface
-            
-
-        
+13. Make Component For Login Page
+    1. Input Container
+    2. Input Validation
+    3. Text Input
+    4. Default Button
+14. Connect Login API To MongoDB Atlas
+    1. Moving Apis into routers
+    2. Create MongoDB Atlas
+    3. Create .env file
+    4. Install
+        1. mongoose 
+        2. dotnev
+        3. bcryptJs
+        4. Jsonwebtoken
+        5. express-async-handler
+    5. connect to MongoDB Atlas
+    6. Use MongoBB instead of data.ts in Apis
     
