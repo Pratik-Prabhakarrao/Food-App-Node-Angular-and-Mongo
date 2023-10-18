@@ -135,4 +135,10 @@
     2. Add Component
     3. Add Service
     4. Add Interceptor
-    
+17. CheckOut Page
+    1. Create Order Model
+    2. Create Checkout Page
+        1. Add to User Service
+    3. Add User to User Service
+    4. Add to Cart Service
+    5. Create Order Item List Component
