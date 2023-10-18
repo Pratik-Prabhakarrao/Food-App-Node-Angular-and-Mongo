@@ -125,4 +125,8 @@
         5. express-async-handler
     5. connect to MongoDB Atlas
     6. Use MongoBB instead of data.ts in Apis
-    
+15. Register the User
+    1. Ass Register Api
+    2. Add Register Service method
+    3. Add Register Link
+    4. Add Register component
