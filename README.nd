@@ -164,3 +164,13 @@
     6. Add Order service
         1. Add create method
     8.Add Auth Interceptor
+
+
+19 Adding the Paypal
+    1. Generate Component
+        1. Add to payment page
+    2. Get Paypal Client Introduction.
+    3. Add Paypal Js to Index.Html
+    4. Set Up Paypal Button
+    5. Add pay Api to order routers
+    6. Get paypal Sandbox account
